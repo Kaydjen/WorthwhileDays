@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29b9e8d9f3afd4545a89fb986ac4dc44, type: 3}
+  m_Name: Turret_2
+  m_EditorClassIdentifier: 
+  DisplayName: Turret 3
+  Icon: {fileID: 0}
+  GridSnapSize: 1
+  Prefab: {fileID: 877787116933932036, guid: dc8b4eb46f44dae4ba911605f34653a1, type: 3}
+  BuildingSize: {x: 12, y: 7.5, z: 12}
+  PartType: 0
